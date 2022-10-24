@@ -1,5 +1,5 @@
 {
-  "name": "referralcandy/magento2-module-integration",
+  "name": "skywire/referal-candy",
   "description": "An extension to integrate ReferralCandy on your Magento store",
   "type": "magento2-module",
   "authors": [
